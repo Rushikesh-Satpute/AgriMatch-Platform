@@ -6,9 +6,13 @@ A mobile-first platform designed to connect **fruit farmers** with **genuine who
 
 ## 📱 App Screenshots
 
-| Home Screen | Buyer Dashboard | Farmer Onboarding |
+| Home Screen | Product Details | Farmer Onboarding |
 |-------------|-----------------|-------------------|
-| ![Home](./screenshots/home.png) | ![Buyer](./screenshots/buyer.png) | ![Farmer](./screenshots/farmer.png) |
+| ![Home](./images/Home.jpg) | ![Product Details](./images/product1.jpg) | ![Send OTP](./images/mobile.jpg) |
+
+| Profile Screen | Role Selection | Farmer Onboarding |
+|-------------|-----------------|-------------------|
+| ![Profile](./images/profile.jpg) | ![Role Selection](./images/role.jpg) | ![Send OTP](./images/otp.jpg) |
 
 > *Note: These are representative screenshots. Actual flow includes dynamic pricing, inquiries, and feedback.*
 
